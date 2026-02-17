@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Raymond Huang's Offical Page/Raymond Huang's Offical Page"
+title                    : "Raymond Huang's Offical Page"
 title_separator          : "-"
 name                     : &name "Raymond Huang" # Update this with your name, this is used in the default title and description if not overridden by a page
 description              : &description "Raymond Huang's portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "MrVeryyy/MrVeryyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.jpg"
   name             : "Raymond Huang"
   pronouns         : # example: "she/her"  
   bio              : "Senior Software Engineer"
