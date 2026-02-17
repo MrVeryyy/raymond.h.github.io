@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Raymond Huang's Page"
+title                    : "Raymond Huang's Offical Page/Raymond Huang's Offical Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Raymond Huang" # Update this with your name, this is used in the default title and description if not overridden by a page
+description              : &description "Raymond Huang's portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://MrVeryyy.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "MrVeryyy/MrVeryyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Raymond Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Ph.D. student at NTUST"
-  location         : "ROC"
+  bio              : "Senior Software Engineer"
+  location         : "Taiwan"
   employer         : #
   uri              : # URL
   email            : "raymondzorrofinder@gmail.com" 
