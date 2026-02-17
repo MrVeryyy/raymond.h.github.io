@@ -1,3 +1,6 @@
+# Start Date
+**2026.02.17 Tue**
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
