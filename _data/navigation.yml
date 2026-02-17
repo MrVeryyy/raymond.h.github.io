@@ -9,14 +9,15 @@
 
 
 main: 
-  - title: "Publications"
-    url: /publications/
+ 
+  - title: "Resume"
+    url: /cv-json/
 
   - title: "Portfolio"
     url: /portfolio/
   
-  - title: "CV"
-    url: /cv-json/
+  - title: "Publications"
+    url: /publications/
   
 # ------------------------------------------------------------------------------------------
 # main:
